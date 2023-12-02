@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Berorin", "BerorinApp\BerorinApp.csproj", "{8C6D9AF1-0A73-4305-9F71-5482950E17DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BerorinTest", "BerorinTest\BerorinTest.csproj", "{6D5EAEAD-956F-47F7-A335-B15C512DA8DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C6D9AF1-0A73-4305-9F71-5482950E17DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6D9AF1-0A73-4305-9F71-5482950E17DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6D9AF1-0A73-4305-9F71-5482950E17DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6D9AF1-0A73-4305-9F71-5482950E17DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D5EAEAD-956F-47F7-A335-B15C512DA8DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D5EAEAD-956F-47F7-A335-B15C512DA8DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D5EAEAD-956F-47F7-A335-B15C512DA8DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D5EAEAD-956F-47F7-A335-B15C512DA8DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EAD5735-0913-4CD0-9CBC-93A62AE59AF8}
+	EndGlobalSection
+EndGlobal
